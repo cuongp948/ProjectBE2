@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-test nè aaa
-=======
 test nè conflict
->>>>>>> main
+
